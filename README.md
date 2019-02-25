@@ -3,7 +3,7 @@
 A messaging-application using React and Firebase utilizing the giphy API.  
 
 # To Start: 
-* cd into my-app
+
 * Run `npm install` and `npm start`.
 
 ### Users Can:
