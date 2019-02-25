@@ -85,5 +85,5 @@ You will be automatically directed to Login.  If you don't have an account, proc
 <img width="1279" alt="emoji" src="https://user-images.githubusercontent.com/43252585/53373887-9cd2e080-390b-11e9-83e9-aa2bf0ae9318.png">
 
 
-## Some Notes:
-I wanted to deploy the application and applied for a Giphy API production key but I am still waiting on that.  
+## Notes:
+Moving forward I would like to use a GIPHY production key. I’m still awaiting to be approved for that. 
