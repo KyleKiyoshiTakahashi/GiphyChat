@@ -1,4 +1,41 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# GiphyChat
+
+A messaging-application using React and Firebase utilizing the giphy API.  
+
+# To Start: 
+cd into my-app
+Run `npm install` and `npm start`.
+
+### Users Can:
+* Create an account.  
+* Login.  
+* Logout.
+* Change the color of the App and save multiple color selections to their account.
+* Find or create a new chat-channel.
+* Start posting text, images, emojis, or gifs. 
+* Favorite a channel.
+* Search Giphy
+* Avatar is defaulted to use a gravatar. However user can change their avatar.
+* Can upload avatar and crop and preview the image.
+* Direct Message other registered users. Will display if they are online or not.
+
+### GiphyChat features:
+* Searching gifs will display the first 8.  
+* Home page will display the top 100 trending gifs.  
+* Infinite Scroll for top 100 gifs.
+* Displays new notifications if a new post is created by another user.  
+* Will display the currently active channel .
+* Show number of users active in the selected channel.
+* Loading Skeleton for messages.
+* Progress bar for file uploading.
+* Private Direct Messaging.
+* Fully responsive.
+* Displays when other user is typing feature
+* Displays when a post was created.
+* Custom keyboard input commands
+* Select and post Emojis
+* Loading Spinner.
+
 
 ## Available Scripts
 
@@ -12,57 +49,39 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-### `npm test`
+## Getting Started With GiphyChat
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You will be automatically directed to Login.  If you don't have an account, proceed to Registration. 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Screenshots
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+### Dashboard: Top 100 trending-inifinte scroll
+[Imgur](https://i.imgur.com/wnXyLBg.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Search Giphy: Displays 8
+[Imgur](https://i.imgur.com/hUyghU3.png)
 
-### `npm run eject`
+### Change avatar, upload image: crop and preview
+[Imgur](https://i.imgur.com/A4q63ak.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Direct Messages with users
+[Imgur](https://i.imgur.com/0PetWiU.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### File Upload
+[Imgur](https://i.imgur.com/LjgonVr.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Color Changing
+[Imgur](https://i.imgur.com/C8L97l2.png)
+[Imgur](https://i.imgur.com/VYuXyC0.png)
+[Imgur](https://i.imgur.com/mpokDO9.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Starred Channels
+[Imgur](https://i.imgur.com/Bu49ZUn.png)
 
-## Learn More
+### Emojis
+[Imgur](https://i.imgur.com/r63lmId.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Some Notes:
+I wanted to deploy the application and applied for a Giphy API production key but I am still waiting on that.  
