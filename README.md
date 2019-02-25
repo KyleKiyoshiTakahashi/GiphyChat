@@ -73,9 +73,9 @@ You will be automatically directed to Login.  If you don't have an account, proc
 
 ### Color Changing
 <img width="1279" alt="changeappcolor" src="https://user-images.githubusercontent.com/43252585/53373894-9d6b7700-390b-11e9-9b1a-935da3dd59d8.png">
-#### Color Change Modal
+### Color Change Modal
 <img width="1279" alt="changeappcolormodal" src="https://user-images.githubusercontent.com/43252585/53373893-9d6b7700-390b-11e9-86cc-5aba1cde0002.png">
-#### App Color is Now Changed!
+### App Color is Now Changed!
 <img width="1279" alt="appcolorhaschaged" src="https://user-images.githubusercontent.com/43252585/53373886-9cd2e080-390b-11e9-8b5e-5560749221b2.png">
 
 ### Starred Channels
