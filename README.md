@@ -57,30 +57,32 @@ You will be automatically directed to Login.  If you don't have an account, proc
 # Screenshots
 
 ### Dashboard: Top 100 trending-inifinte scroll
-[Imgur](https://i.imgur.com/wnXyLBg.png)
+<img width="1279" alt="homepage" src="https://user-images.githubusercontent.com/43252585/53373897-9d6b7700-390b-11e9-91f5-c3829c1420e3.png">
 
 ### Search Giphy: Displays 8
-[Imgur](https://i.imgur.com/hUyghU3.png)
+<img width="1279" alt="searchgiphy" src="https://user-images.githubusercontent.com/43252585/53373891-9d6b7700-390b-11e9-9784-49bd08821565.png">
 
 ### Change avatar, upload image: crop and preview
-[Imgur](https://i.imgur.com/A4q63ak.png)
+<img width="1279" alt="changeavatar" src="https://user-images.githubusercontent.com/43252585/53373892-9d6b7700-390b-11e9-9f05-b4c29361fd42.png">
 
 ### Direct Messages with users
-[Imgur](https://i.imgur.com/0PetWiU.png)
+<img width="1279" alt="directmessages" src="https://user-images.githubusercontent.com/43252585/53373895-9d6b7700-390b-11e9-908a-ec88a1a483b9.png">
 
 ### File Upload
-[Imgur](https://i.imgur.com/LjgonVr.png)
+<img width="1279" alt="fileupload" src="https://user-images.githubusercontent.com/43252585/53373889-9cd2e080-390b-11e9-8e12-dca6eb076223.png">
 
 ### Color Changing
-[Imgur](https://i.imgur.com/C8L97l2.png)
-[Imgur](https://i.imgur.com/VYuXyC0.png)
-[Imgur](https://i.imgur.com/mpokDO9.png)
+<img width="1279" alt="changeappcolor" src="https://user-images.githubusercontent.com/43252585/53373894-9d6b7700-390b-11e9-9b1a-935da3dd59d8.png">
+#### Color Change Modal
+<img width="1279" alt="changeappcolormodal" src="https://user-images.githubusercontent.com/43252585/53373893-9d6b7700-390b-11e9-86cc-5aba1cde0002.png">
+#### App Color is Now Changed!
+<img width="1279" alt="appcolorhaschaged" src="https://user-images.githubusercontent.com/43252585/53373886-9cd2e080-390b-11e9-8b5e-5560749221b2.png">
 
 ### Starred Channels
-[Imgur](https://i.imgur.com/Bu49ZUn.png)
+<img width="1279" alt="starred" src="https://user-images.githubusercontent.com/43252585/53373896-9d6b7700-390b-11e9-9096-2d703c633535.png">
 
 ### Emojis
-[Imgur](https://i.imgur.com/r63lmId.png)
+<img width="1279" alt="emoji" src="https://user-images.githubusercontent.com/43252585/53373887-9cd2e080-390b-11e9-83e9-aa2bf0ae9318.png">
 
 
 ## Some Notes:
